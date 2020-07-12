@@ -17,7 +17,7 @@ export default function Comp1(props) {
         <div className="App" >
             <h1 >My App</h1>
             <input type="text" defaultValue={l1} />
-            <button onClick={ setl1("comp")}  >aaaa</button>
+            <button onClick={ setl1("comp")}  >bbaa</button>
         </div>
     )
 }
