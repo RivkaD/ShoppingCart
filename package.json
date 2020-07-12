@@ -1,6 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
+  "homepage": "/ShoppingCart",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
